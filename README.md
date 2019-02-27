@@ -1,0 +1,2 @@
+This exercise costed me more than I expected. Showed me how I had misunderstood boxes for the webpage layout, so I stuggled a bit when trying to place everything on their spot. Now I have very concepts clear and got familiarized with the porblem solving aspect and the usago of the HTML and CSS software.
+Very good exercide
